@@ -1,5 +1,5 @@
 {
-  "name": "reconnect-ws",
+  "name": "@noffle/reconnect-ws",
   "version": "0.1.0",
   "description": "Reconnect a websocket stream when it goes down.",
   "main": "index.js",
