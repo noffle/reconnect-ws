@@ -24,9 +24,9 @@
   "homepage": "https://github.com/jacobbubu/reconnect-ws",
   "dependencies": {
     "reconnect-core": "^1.0.0",
-    "websocket-stream": "^1.4.0"
+    "websocket-stream": "^3.3.3"
   },
   "devDependencies": {
-    "ws": "~0.4.31"
+    "ws": "^2.0.2"
   }
 }
